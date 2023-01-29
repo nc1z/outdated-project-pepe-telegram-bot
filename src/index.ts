@@ -17,6 +17,7 @@ bot.onText(/\/pepe (.+)/, async (msg: any, match: any) => {
   const chatId = msg.chat.id;
   const userId = msg.from.id;
   const userPrompt = match[1];
+  console.log(msg.from.username + ": " + userPrompt);
 
   if (!userPrompt) {
     return bot.sendMessage(chatId, "Invalid input");
