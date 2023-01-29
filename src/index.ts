@@ -1,6 +1,6 @@
 const TelegramBot = require("node-telegram-bot-api");
 const dotenv = require("dotenv");
-const { fetchResponse } = require("./functions/gpt3-text-babbage-001-api.ts");
+const { fetchResponse } = require("./functions/gpt3-text-babbage-001-api");
 dotenv.config();
 
 // TELEGRAM BOT >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
