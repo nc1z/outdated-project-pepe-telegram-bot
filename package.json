@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "npx nodemon",
-    "build": "tsc && npm run start",
+    "build": "tsc",
     "start": "node build/index.js"
   },
   "repository": {
