@@ -7,12 +7,12 @@
 <br />
 <div align="center">
 
-![pepe_bot_banner](https://user-images.githubusercontent.com/111836326/215309927-77ad762d-d416-483d-9348-b055b39e90d4.jpg)
+![pepe_bot_banner](https://user-images.githubusercontent.com/111836326/215663398-0efa9764-5caf-46c1-a39d-1e58c8b542eb.jpg)
 
 <h2 align="center">Pepe Bot V1.0</h2>
 
   <p align="center">
-    GPT-3 NodeJs Telegram Bot
+    Pepe Bot: virtual BFF for witty conversation and humor. GPT-3 powered. Ask it anything!
     <br />
     <a href="https://github.com/nc1z/simple-bot-telegram"><strong>Explore the docs »</strong></a>
     <br />
@@ -31,7 +31,9 @@
 
 ## About The Project
 
-A mini chatGPT for telegram. Simply pass quick prompts on the go and receive concise answers. No need the browser to access chatGPT anymore!
+A mini and convenient chatGPT for telegram. Simply pass quick prompts on the go and receive concise answers. 
+
+Meet Pepe Bot - your new virtual BFF! This GPT-3 powered bot is here to keep you company and make you LOL with its witty and concise answers. Whether you need a quick pick-me-up or just someone to talk to, Pepe Bot's got you covered. So go ahead, ask it anything (/pepe) and let the good times roll!
 
 <!-- RELEASE -->
 
