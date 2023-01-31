@@ -2,14 +2,14 @@ const axios = require("axios");
 
 export const fetchResponse = async (userPrompt: string, userId: number) => {
   const api_url = "https://api.openai.com/v1/completions";
-  const base_model = "text-babbage-001";
+  const base_model = "text-davinci-003";
   const apiKey = process.env.GPT_SECRET;
 
   if (userPrompt.split(" ").length > 30) {
     return "Request exceeds word limit (30)";
   }
 
-  const inputPrompt = userPrompt + "- Keep the response concise.";
+  const inputPrompt = userPrompt + " (Keep the response concise)";
 
   try {
     const response = await axios.post(
