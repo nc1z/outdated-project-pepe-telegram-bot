@@ -47,6 +47,8 @@ Meet Pepe Bot - your new virtual BFF! This GPT-3 powered bot is here to keep you
 <!-- BOT COMMANDS -->
 
 ## Usage
+![image](https://user-images.githubusercontent.com/111836326/215665672-d440e1b1-336f-4f76-8f74-741b1bfd0dce.png)
+
 
 <!-- CONTACT -->
 
