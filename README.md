@@ -9,7 +9,7 @@
 
 ![pepe_bot_banner](https://user-images.githubusercontent.com/111836326/215663398-0efa9764-5caf-46c1-a39d-1e58c8b542eb.jpg)
 
-<h2 align="center">Pepe Bot V1.0</h2>
+<h2 align="center">Pepe Bot V1.1</h2>
 
   <p align="center">
     Pepe Bot: virtual BFF for witty conversation and humor. GPT-3 powered. Ask it anything!
@@ -38,7 +38,8 @@ Meet Pepe Bot - your new virtual BFF! This GPT-3 powered bot is here to keep you
 <!-- RELEASE -->
 
 ## Release & Updates
-
+- V1.1
+  - Upgraded to text-davinci-003
 - V1.0
   - Currently using text-babbage-001 (Capable of straightforward tasks, very fast, and lower cost).
   - Repeated answers are common (To be improved)
