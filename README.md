@@ -14,14 +14,14 @@
   <p align="center">
     Pepe Bot: virtual BFF for witty conversation and humor. GPT-3 powered. Ask it anything!
     <br />
-    <a href="https://github.com/nc1z/simple-bot-telegram"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/nc1z/pepe-bot-telegram"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://t.me/simple_v1_bot">View Demo</a>
+    <a href="https://t.me/pepe_v1_bot">View Demo</a>
     ·
-    <a href="https://github.com/nc1z/simple-bot-telegram">Report Bug</a>
+    <a href="https://github.com/nc1z/pepe-bot-telegram">Report Bug</a>
     ·
-    <a href="https://github.com/nc1z/simple-bot-telegram">Request Feature</a>
+    <a href="https://github.com/nc1z/pepe-bot-telegram">Request Feature</a>
   </p>
 </div>
 
